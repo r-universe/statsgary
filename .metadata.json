@@ -1,0 +1,10 @@
+[
+  {
+    "package": "MLDataR",
+    "oncran": true
+  },
+  {
+    "package": "OddsPlotty",
+    "oncran": true
+  }
+]
