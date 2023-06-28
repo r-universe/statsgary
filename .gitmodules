@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MLDataR"]
 	path = MLDataR
 	url = https://github.com/statsgary/mldatar
-	shallow = true
-	registered = true
 [submodule "OddsPlotty"]
 	path = OddsPlotty
 	url = https://github.com/statsgary/oddsplotty
-	shallow = true
-	registered = true
